@@ -1,3 +1,4 @@
+# Version: 2.0 - Development branch
 """
 Модуль для загрузки данных о котировках акций.
 Поддерживаемые источники: Yahoo Finance и Alpha Vantage API
