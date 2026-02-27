@@ -1,3 +1,4 @@
+# Version: 1.5 - Feature branch
 """
 Модуль для загрузки данных о котировках акций.
 Источник: Yahoo Finance
